@@ -8,3 +8,5 @@ comments
 functions
 condition
 loops
+lot of functions
+working here
